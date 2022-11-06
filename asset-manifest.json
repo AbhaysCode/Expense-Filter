@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Expense-Filter/static/css/main.02ce15b6.css",
+    "main.js": "/Expense-Filter/static/js/main.ef7f64ae.js",
+    "index.html": "/Expense-Filter/index.html",
+    "main.02ce15b6.css.map": "/Expense-Filter/static/css/main.02ce15b6.css.map",
+    "main.ef7f64ae.js.map": "/Expense-Filter/static/js/main.ef7f64ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02ce15b6.css",
+    "static/js/main.ef7f64ae.js"
+  ]
+}
